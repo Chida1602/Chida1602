@@ -1,6 +1,8 @@
-# 💫 About Me:
-👋 Hi, I'm Chidanand<br><br>🔭 Building scalable Angular applications with clean architecture<br><br>🌱 Continuously learning advanced Angular, RxJS, and frontend best practices
+## 👨‍💻 About Me
 
+Full Stack Developer specializing in Angular and Quarkus, building modern, scalable web applications.
+
+Experienced in containerizing applications with Docker and designing clean, maintainable full-stack architectures.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m-chidanand/) 
@@ -15,4 +17,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Chida1602&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
