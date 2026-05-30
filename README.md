@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hi, I'm Chidanand 👋<br><br>Full Stack Developer with 3+ years of experience building enterprise-scale web applications in the healthcare domain.<br><br>Currently working as an Associate Software Engineer at Dedalus, where I contribute to the development of scalable, maintainable, and user-centric solutions. I enjoy solving complex problems, designing clean architectures, and creating applications that deliver real business value.<br><br>Passionate about continuous learning, software craftsmanship, and building high-quality products that make a meaningful impact.<br><br>🌐 Portfolio: https://chida1602.github.io/chida-portfolio/
+Hi, I'm Chidanand 👋<br><br>Full Stack Developer with 3+ years of experience building enterprise-scale web applications in the healthcare domain.<br><br>Currently working as an Associate Software Engineer at Dedalus, where I contribute to the development of scalable, maintainable, and user-centric solutions. I enjoy solving complex problems, designing clean architectures, and creating applications that deliver real business value.<br><br>Passionate about continuous learning, software craftsmanship, and building high-quality products that make a meaningful impact.
 
 
 ## 🌐 Socials:
