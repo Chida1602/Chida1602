@@ -1,38 +1,114 @@
+<div align="center">
+
+# Hi, I'm Chidanand 👋
+
+### Associate Software Engineer @ Dedalus | Full Stack Developer
+#### Angular • TypeScript • Java • Spring Boot • Quarkus
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%7C+Java+%7C+Spring+Boot;Building+Scalable+Healthcare+Applications)](https://git.io/typing-svg)
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://chidanand-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-chidanand/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chida1602)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maasandramchidanand@gmail.com)
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
-Hi, I'm Chidanand 👋
+- 🏥 **3+ years** building enterprise **healthcare** applications at **Dedalus**
+- ⚙️ Specializing in **Angular, TypeScript, Java, Spring Boot, Quarkus & Microservices**
+- 🧩 Passionate about designing **scalable applications, clean architecture**, and delivering maintainable software solutions
+- 🌱 Currently expanding my expertise in **Advanced Angular, Kubernetes, System Design, Cloud, and CI/CD**
+- 🔗 Portfolio → [chidanand-portfolio.vercel.app](https://chidanand-portfolio.vercel.app/)
 
-I'm a Full Stack Developer with 3+ years of experience building enterprise healthcare applications using Angular, TypeScript, Java, Spring Boot, Quarkus, Microservices, and REST APIs.
+---
 
-Currently working at Dedalus, I focus on developing scalable, maintainable, and high-performance applications that improve healthcare workflows.
+## 🛠️ Tech Stack
 
-I enjoy designing clean architectures, solving challenging problems, and continuously learning modern technologies.
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+</p>
 
-🌐 Portfolio: https://chidanand-portfolio.vercel.app/
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quarkus-4794EB?style=flat-square&logo=quarkus&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+</p>
 
---- ## 🌐 Connect With Me [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chidanand-portfolio.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-chidanand/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chida1602) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maasandramchidanand@gmail.com) ---
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
-# 💻 Tech Stack ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black) ![Confluence](https://img.shields.io/badge/Confluence-172BF4?style=for-the-badge&logo=confluence&logoColor=white) 
+**DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black" />
+  <img src="https://img.shields.io/badge/Confluence-172BF4?style=flat-square&logo=confluence&logoColor=white" />
+</p>
 
---- ## 🌱 Currently Learning - Advanced Angular Architecture - Docker & Kubernetes - System Design - CI/CD  ---
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Chida1602&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Chida1602&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Chida1602&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Chida1602">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chida1602&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Chida1602&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chida1602&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chida1602&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chida1602&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Chida1602&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chida1602&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Chida1602&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📬 Let's Connect
+
+- 📧 **Email:** [maasandramchidanand@gmail.com](mailto:maasandramchidanand@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/m-chidanand](https://linkedin.com/in/m-chidanand/)
+- 🌐 **Portfolio:** [chidanand-portfolio.vercel.app](https://chidanand-portfolio.vercel.app/)
+- 🐙 **GitHub:** [github.com/Chida1602](https://github.com/Chida1602)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=l&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Chida1602&style=flat-square&color=0A66C2)
+
+</div>
