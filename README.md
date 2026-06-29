@@ -65,20 +65,33 @@
 
 ---
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
+## 📊 GitHub Stats:
 
-<a href="https://github.com/Chida1602">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chida1602&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Chidanand's GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Chida1602&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub streak stats" />
-</a>
+![](https://github-readme-stats.shion.dev/api?username=Chida1602&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<br/>
+![](https://streak-stats.demolab.com/?user=Chida1602&theme=highcontrast&hide_border=false)<br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chida1602&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&include_all_commits=true&count_private=true" alt="Top languages" />
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Chida1602&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Chida1602&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Chida1602&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -86,14 +99,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chida1602&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400" alt="Chidanand's GitHub contribution graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chida1602&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&cache_seconds=86400" alt="GitHub trophies" />
 </div>
 
 ---
