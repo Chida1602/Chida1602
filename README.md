@@ -64,22 +64,13 @@
 </p>
 
 ---
-
----
-
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=Chida1602&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Chida1602&bg_color=0c0e12&title_color=f59e0b&text_color=f1f5f9&icon_color=14b8a6&border_color=1f2937&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://streak-stats.demolab.com/?user=Chida1602&theme=highcontrast&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Chida1602&background=0c0e12&border=1f2937&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakNum=f59e0b&sideNums=f1f5f9&currStreakLabel=f59e0b&sideLabels=f1f5f9&dates=f1f5f9&hide_border=false)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Chida1602&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Chida1602&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Chida1602&bg_color=0c0e12&title_color=f59e0b&text_color=f1f5f9&icon_color=14b8a6&border_color=1f2937&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -89,20 +80,13 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Chida1602&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chida1602&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400" alt="Chidanand's GitHub contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chida1602&theme=radical&hide_border=true&area=true&cache_seconds=86400" alt="Chidanand's GitHub contribution graph" />
 </div>
 
 ---
-
 ## 📬 Let's Connect
 
 - 📧 **Email:** [maasandramchidanand@gmail.com](mailto:maasandramchidanand@gmail.com)
