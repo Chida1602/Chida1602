@@ -65,22 +65,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🌐 **[Personal Portfolio](https://chidanand-portfolio.vercel.app/)** — HTML · CSS · JavaScript · Responsive design · Deployed on Vercel
-
-📌 More open-source Angular and Full Stack projects are currently under development.
-
----
-
-## 🏅 Certifications & Recognition
-
-- 📄 **IEEE Conference Publication** — ICOEI 2023
-- 🏆 **R&R Award** — Dedalus (2024)
-- ☕ **Java 17 Masterclass** — Udemy
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
